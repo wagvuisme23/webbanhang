@@ -16,8 +16,8 @@ Web bán hàng sản phẩm là một nền tảng trực tuyến cho phép ngư
 ## 💻 Công Nghệ Sử Dụng
 
 - **Front-end**: ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-- **Back-end**: ![Java](https://img.shields.io/badge/Java-11-blue) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.3-green) ![C#](https://img.shields.io/badge/C%23-8.0-blue)
-- **Cơ sở dữ liệu**: ![Laragon](https://img.shields.io/badge/Laragon-4.0-green)
+- **Back-end**: ![Java](https://img.shields.io/badge/Java-22-blue) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.6-green) ![C#](https://img.shields.io/badge/C%23-8.0-blue)
+- **Cơ sở dữ liệu**: ![Laragon](https://img.shields.io/badge/Laragon-6.0-green)
 - **Xác thực**: ![JWT](https://img.shields.io/badge/JWT-JSON%20Web%20Tokens-green)
 - **Thanh toán**: ![Stripe](https://img.shields.io/badge/Stripe-API-blue)
 
@@ -26,12 +26,12 @@ Web bán hàng sản phẩm là một nền tảng trực tuyến cho phép ngư
 ### Yêu Cầu Hệ Thống
 
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-IDEA-red)
-- ![JDK](https://img.shields.io/badge/JDK-11-blue)
-- ![Laragon](https://img.shields.io/badge/Laragon-4.0-green)
+- ![JDK](https://img.shields.io/badge/JDK-22-blue)
+- ![Laragon](https://img.shields.io/badge/Laragon-6.0-green)
 
 ### Hướng Dẫn Cài Đặt
 
 1. Clone repository về máy của bạn:
    ```sh
-   git clone https://github.com/yourusername/web-ban-hang.git
+   git clone https://github.com/wagvuisme23/webbanhang.git
    cd web-ban-hang
